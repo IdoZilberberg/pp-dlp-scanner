@@ -1,6 +1,5 @@
 import {Detector} from "./detector";
 import {Detection} from "../models/detection";
-import * as _ from "lodash";
 
 export class SsnDetector implements Detector {
 
@@ -38,10 +37,10 @@ export class SsnDetector implements Detector {
     detect(input: string): Detection {
 
         const hasKeywords = this.contextKeywordsMatcher.exec(input);
-        const hasItem = this.itemMatcher.exec(input);
+        const hasItem: any = this.itemMatcher.exec(input);
 
         if (hasKeywords !== null && hasItem !== null) {
-            return new Detection(this.name, null);
+            return new Detection(this.name, hasItem.index);
         }
 
         return null;

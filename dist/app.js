@@ -15,7 +15,7 @@ app.set("port", process.env.PORT || 3222);
 app.set("views", path.join(__dirname, "../views"));
 app.set("view engine", "pug");
 app.use(compression());
-app.use(bodyParser.json());
+app.use(bodyParser.text());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(expressValidator());
 /**
