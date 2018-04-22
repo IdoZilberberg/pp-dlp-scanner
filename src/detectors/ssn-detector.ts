@@ -1,5 +1,6 @@
 import {Detector} from "./detector";
 import {Detection} from "../models/detection";
+import {logger} from "../util/logger";
 
 export class SsnDetector implements Detector {
 
@@ -40,6 +41,7 @@ export class SsnDetector implements Detector {
         const hasItem: any = this.itemMatcher.exec(input);
 
         if (hasKeywords !== null && hasItem !== null) {
+            logger.info(`Detected ${this.name} at index ${hasItem.index}`);
             return new Detection(this.name, hasItem.index);
         }
 
