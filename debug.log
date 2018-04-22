@@ -141,3 +141,207 @@
 {"level":"info","message":"Input: \"rity number is 123-45-4993 so there.\"","timestamp":"2018-04-21T23:49:36.574Z"}
 {"level":"info","message":"Input: \"Hello my Social Security number is 123-45-4993 so t\"","timestamp":"2018-04-21T23:49:44.935Z"}
 {"level":"info","message":"Input: \"rity number is 123-45-4993 so there.\"","timestamp":"2018-04-21T23:49:44.937Z"}
+{"level":"info","message":"Input: \"rity number is 123-45-4993 so there you go. I belie\"","timestamp":"2018-04-21T23:53:43.072Z"}
+{"level":"info","message":"Input: \"Hello my Social Security number is 123-45-4993 so t\"","timestamp":"2018-04-21T23:53:43.074Z"}
+{"level":"info","message":"Input: \"5-4993 so there you go. I believe that it is entire\"","timestamp":"2018-04-21T23:53:43.075Z"}
+{"level":"info","message":"Input: \"go. I believe that it is entirely likely that your \"","timestamp":"2018-04-21T23:53:43.077Z"}
+{"level":"info","message":"Input: \"t is entirely likely that your SSN is something aro\"","timestamp":"2018-04-21T23:53:43.078Z"}
+{"level":"info","message":"Input: \" that your SSN is something around 555-33-4444 but \"","timestamp":"2018-04-21T23:53:43.079Z"}
+{"level":"info","message":"Input: \"mething around 555-33-4444 but can't say for sure.\\n\"","timestamp":"2018-04-21T23:53:43.080Z"}
+{"level":"info","message":"Input: \"3-4444 but can't say for sure.\\nEND\"","timestamp":"2018-04-21T23:53:43.080Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-21T23:54:59.619Z"}
+{"level":"info","message":"  App is running at http://localhost:3222 in development mode","timestamp":"2018-04-21T23:54:59.637Z"}
+{"level":"info","message":"  Press CTRL-C to stop\n","timestamp":"2018-04-21T23:54:59.637Z"}
+{"level":"info","message":"Input: \"go. I believe that it is entirely likely that your \"","timestamp":"2018-04-21T23:55:25.897Z"}
+{"level":"info","message":"Input: \"5-4993 so there you go. I believe that it is entire\"","timestamp":"2018-04-21T23:55:25.904Z"}
+{"level":"info","message":"Input: \"rity number is 123-45-4993 so there you go. I belie\"","timestamp":"2018-04-21T23:55:25.906Z"}
+{"level":"info","message":"Input: \"Hello my Social Security number is 123-45-4993 so t\"","timestamp":"2018-04-21T23:55:25.907Z"}
+{"level":"info","message":"Detected SSN","timestamp":"2018-04-21T23:55:25.907Z"}
+{"level":"info","message":"Input: \"t is entirely likely that your SSN is something aro\"","timestamp":"2018-04-21T23:55:25.909Z"}
+{"level":"info","message":"Input: \" that your SSN is something around 555-33-4444 but \"","timestamp":"2018-04-21T23:55:25.910Z"}
+{"level":"info","message":"Detected SSN","timestamp":"2018-04-21T23:55:25.910Z"}
+{"level":"info","message":"Input: \"mething around 555-33-4444 but can't say for sure.\\n\"","timestamp":"2018-04-21T23:55:25.911Z"}
+{"level":"info","message":"Input: \"3-4444 but can't say for sure.\\nEND\"","timestamp":"2018-04-21T23:55:25.912Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-21T23:55:51.295Z"}
+{"level":"info","message":"  App is running at http://localhost:3222 in development mode","timestamp":"2018-04-21T23:55:51.388Z"}
+{"level":"info","message":"  Press CTRL-C to stop\n","timestamp":"2018-04-21T23:55:51.389Z"}
+{"level":"info","message":"Input: \"Hello my Social Security number is 123-45-4993 so t\"","timestamp":"2018-04-21T23:55:53.788Z"}
+{"level":"info","message":"Detected SSN","timestamp":"2018-04-21T23:55:53.789Z"}
+{"level":"info","message":"Input: \"rity number is 123-45-4993 so there you go. I belie\"","timestamp":"2018-04-21T23:55:58.087Z"}
+{"level":"info","message":"Input: \"5-4993 so there you go. I believe that it is entire\"","timestamp":"2018-04-21T23:55:58.090Z"}
+{"level":"info","message":"Input: \"go. I believe that it is entirely likely that your \"","timestamp":"2018-04-21T23:55:58.093Z"}
+{"level":"info","message":"Input: \"t is entirely likely that your SSN is something aro\"","timestamp":"2018-04-21T23:55:58.098Z"}
+{"level":"info","message":"Input: \" that your SSN is something around 555-33-4444 but \"","timestamp":"2018-04-21T23:55:58.100Z"}
+{"level":"info","message":"Detected SSN","timestamp":"2018-04-21T23:55:58.100Z"}
+{"level":"info","message":"Input: \"mething around 555-33-4444 but can't say for sure.\\n\"","timestamp":"2018-04-21T23:55:58.578Z"}
+{"level":"info","message":"Input: \"3-4444 but can't say for sure.\\nEND\"","timestamp":"2018-04-21T23:55:58.580Z"}
+{"level":"info","message":"Input: \"Hello my Social Security number is 123-45-4993 so t\"","timestamp":"2018-04-21T23:56:18.620Z"}
+{"level":"info","message":"Detected SSN","timestamp":"2018-04-21T23:56:18.621Z"}
+{"level":"info","message":"Input: \"rity number is 123-45-4993 so there you go. I belie\"","timestamp":"2018-04-21T23:56:27.202Z"}
+{"level":"info","message":"Input: \"5-4993 so there you go. I believe that it is entire\"","timestamp":"2018-04-21T23:56:54.360Z"}
+{"level":"info","message":"Input: \"go. I believe that it is entirely likely that your \"","timestamp":"2018-04-21T23:57:26.732Z"}
+{"level":"info","message":"Input: \"t is entirely likely that your SSN is something aro\"","timestamp":"2018-04-21T23:57:27.306Z"}
+{"level":"info","message":"Input: \" that your SSN is something around 555-33-4444 but \"","timestamp":"2018-04-21T23:57:27.803Z"}
+{"level":"info","message":"Detected SSN","timestamp":"2018-04-21T23:57:27.803Z"}
+{"level":"info","message":"Input: \"mething around 555-33-4444 but can't say for sure.\\n\"","timestamp":"2018-04-21T23:57:42.334Z"}
+{"level":"info","message":"Input: \"3-4444 but can't say for sure.\\nEND\"","timestamp":"2018-04-21T23:57:47.396Z"}
+{"level":"info","message":"Input: \"Hello my Social Security number is 123-45-4993 so t\"","timestamp":"2018-04-21T23:58:15.025Z"}
+{"level":"info","message":"Detected SSN","timestamp":"2018-04-21T23:58:15.025Z"}
+{"level":"info","message":"Input: \"rity number is 123-45-4993 so there you go. I belie\"","timestamp":"2018-04-21T23:58:18.799Z"}
+{"level":"info","message":"Input: \"5-4993 so there you go. I believe that it is entire\"","timestamp":"2018-04-21T23:58:18.800Z"}
+{"level":"info","message":"Input: \"go. I believe that it is entirely likely that your \"","timestamp":"2018-04-21T23:58:18.803Z"}
+{"level":"info","message":"Input: \"t is entirely likely that your SSN is something aro\"","timestamp":"2018-04-21T23:58:18.806Z"}
+{"level":"info","message":"Input: \" that your SSN is something around 555-33-4444 but \"","timestamp":"2018-04-21T23:58:18.809Z"}
+{"level":"info","message":"Detected SSN","timestamp":"2018-04-21T23:58:18.810Z"}
+{"level":"info","message":"Input: \"3-4444 but can't say for sure.\\nEND\"","timestamp":"2018-04-21T23:58:18.813Z"}
+{"level":"info","message":"Input: \"mething around 555-33-4444 but can't say for sure.\\n\"","timestamp":"2018-04-21T23:58:18.816Z"}
+{"level":"info","message":"Input: \"Hello my Social Security number is 123-45-4993 so t\"","timestamp":"2018-04-21T23:58:48.797Z"}
+{"level":"info","message":"Detected SSN","timestamp":"2018-04-21T23:58:48.797Z"}
+{"level":"info","message":"Input: \"rity number is 123-45-4993 so there you go. I belie\"","timestamp":"2018-04-21T23:58:48.799Z"}
+{"level":"info","message":"Input: \"5-4993 so there you go. I believe that it is entire\"","timestamp":"2018-04-21T23:58:48.800Z"}
+{"level":"info","message":"Input: \"go. I believe that it is entirely likely that your \"","timestamp":"2018-04-21T23:58:48.801Z"}
+{"level":"info","message":"Input: \"t is entirely likely that your SSN is something aro\"","timestamp":"2018-04-21T23:58:48.803Z"}
+{"level":"info","message":"Input: \" that your SSN is something around 555-33-4444 but \"","timestamp":"2018-04-21T23:58:48.804Z"}
+{"level":"info","message":"Detected SSN","timestamp":"2018-04-21T23:58:48.804Z"}
+{"level":"info","message":"Input: \"mething around 555-33-4444 but can't say for sure.\\n\"","timestamp":"2018-04-21T23:58:48.805Z"}
+{"level":"info","message":"Input: \"3-4444 but can't say for sure.\\nEND\"","timestamp":"2018-04-21T23:58:48.806Z"}
+{"level":"info","message":"Input: \"Hello my Social Security number is 123-45-4993 so t\"","timestamp":"2018-04-21T23:59:50.100Z"}
+{"level":"info","message":"Detected SSN","timestamp":"2018-04-21T23:59:50.102Z"}
+{"level":"info","message":"Input: \"rity number is 123-45-4993 so there you go. I belie\"","timestamp":"2018-04-21T23:59:50.104Z"}
+{"level":"info","message":"Input: \"5-4993 so there you go. I believe that it is entire\"","timestamp":"2018-04-21T23:59:50.107Z"}
+{"level":"info","message":"Input: \"go. I believe that it is entirely likely that your \"","timestamp":"2018-04-21T23:59:50.108Z"}
+{"level":"info","message":"Input: \"t is entirely likely that your SSN is something aro\"","timestamp":"2018-04-21T23:59:50.109Z"}
+{"level":"info","message":"Input: \" that your SSN is something around 555-33-4444 but \"","timestamp":"2018-04-21T23:59:50.111Z"}
+{"level":"info","message":"Detected SSN","timestamp":"2018-04-21T23:59:50.111Z"}
+{"level":"info","message":"Input: \"mething around 555-33-4444 but can't say for sure.\\n\"","timestamp":"2018-04-21T23:59:50.112Z"}
+{"level":"info","message":"Input: \"3-4444 but can't say for sure.\\nEND\"","timestamp":"2018-04-21T23:59:50.113Z"}
+{"level":"info","message":"Input: \"Hello my Social Security number is 123-45-4993 so t\"","timestamp":"2018-04-21T23:59:59.997Z"}
+{"level":"info","message":"Detected SSN","timestamp":"2018-04-21T23:59:59.997Z"}
+{"level":"info","message":"Input: \"rity number is 123-45-4993 so there you go. I belie\"","timestamp":"2018-04-21T23:59:59.999Z"}
+{"level":"info","message":"Input: \"5-4993 so there you go. I believe that it is entire\"","timestamp":"2018-04-22T00:00:00.000Z"}
+{"level":"info","message":"Input: \"go. I believe that it is entirely likely that your \"","timestamp":"2018-04-22T00:00:00.001Z"}
+{"level":"info","message":"Input: \"t is entirely likely that your SSN is something aro\"","timestamp":"2018-04-22T00:00:00.004Z"}
+{"level":"info","message":"Input: \" that your SSN is something around 555-33-4444 but \"","timestamp":"2018-04-22T00:00:00.006Z"}
+{"level":"info","message":"Detected SSN","timestamp":"2018-04-22T00:00:00.006Z"}
+{"level":"info","message":"Input: \"mething around 555-33-4444 but can't say for sure.\\n\"","timestamp":"2018-04-22T00:00:00.012Z"}
+{"level":"info","message":"Input: \"3-4444 but can't say for sure.\\nEND\"","timestamp":"2018-04-22T00:00:00.013Z"}
+{"level":"info","message":"Input: \"Hello my Social Security number is 123-45-4993 so t\"","timestamp":"2018-04-22T00:00:17.881Z"}
+{"level":"info","message":"Detected SSN","timestamp":"2018-04-22T00:00:17.882Z"}
+{"level":"info","message":"Input: \"rity number is 123-45-4993 so there you go. I belie\"","timestamp":"2018-04-22T00:00:17.885Z"}
+{"level":"info","message":"Input: \"5-4993 so there you go. I believe that it is entire\"","timestamp":"2018-04-22T00:00:17.889Z"}
+{"level":"info","message":"Input: \"go. I believe that it is entirely likely that your \"","timestamp":"2018-04-22T00:00:17.891Z"}
+{"level":"info","message":"Input: \" that your SSN is something around 555-33-4444 but \"","timestamp":"2018-04-22T00:00:17.892Z"}
+{"level":"info","message":"Detected SSN","timestamp":"2018-04-22T00:00:17.893Z"}
+{"level":"info","message":"Input: \"mething around 555-33-4444 but can't say for sure.\\n\"","timestamp":"2018-04-22T00:00:17.894Z"}
+{"level":"info","message":"Input: \"t is entirely likely that your SSN is something aro\"","timestamp":"2018-04-22T00:00:17.896Z"}
+{"level":"info","message":"Input: \"3-4444 but can't say for sure.\\nEND\"","timestamp":"2018-04-22T00:00:17.897Z"}
+{"level":"info","message":"Input: \"Hello my Social Security number is 123-45-4993 so t\"","timestamp":"2018-04-22T00:03:10.256Z"}
+{"level":"info","message":"Detected SSN","timestamp":"2018-04-22T00:03:10.257Z"}
+{"level":"info","message":"Input: \"rity number is 123-45-4993 so there you go. I belie\"","timestamp":"2018-04-22T00:03:10.258Z"}
+{"level":"info","message":"Input: \"go. I believe that it is entirely likely that your \"","timestamp":"2018-04-22T00:03:10.259Z"}
+{"level":"info","message":"Input: \"5-4993 so there you go. I believe that it is entire\"","timestamp":"2018-04-22T00:03:10.261Z"}
+{"level":"info","message":"Input: \"t is entirely likely that your SSN is something aro\"","timestamp":"2018-04-22T00:03:10.262Z"}
+{"level":"info","message":"Input: \" that your SSN is something around 555-33-4444 but \"","timestamp":"2018-04-22T00:03:10.263Z"}
+{"level":"info","message":"Detected SSN","timestamp":"2018-04-22T00:03:10.264Z"}
+{"level":"info","message":"Input: \"mething around 555-33-4444 but can't say for sure.\\n\"","timestamp":"2018-04-22T00:03:10.265Z"}
+{"level":"info","message":"Input: \"3-4444 but can't say for sure.\\nEND\"","timestamp":"2018-04-22T00:03:10.266Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T00:04:21.724Z"}
+{"level":"info","message":"  App is running at http://localhost:3222 in development mode","timestamp":"2018-04-22T00:04:21.748Z"}
+{"level":"info","message":"  Press CTRL-C to stop\n","timestamp":"2018-04-22T00:04:21.748Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T00:04:22.764Z"}
+{"level":"info","message":"  App is running at http://localhost:3222 in development mode","timestamp":"2018-04-22T00:04:22.780Z"}
+{"level":"info","message":"  Press CTRL-C to stop\n","timestamp":"2018-04-22T00:04:22.780Z"}
+{"level":"info","message":"Input: \"Hello my Social Security number is 123-45-4993 so t\"","timestamp":"2018-04-22T00:04:31.074Z"}
+{"level":"info","message":"Detected SSN at index 36","timestamp":"2018-04-22T00:04:31.075Z"}
+{"level":"info","message":"Input: \"rity number is 123-45-4993 so there you go. I belie\"","timestamp":"2018-04-22T00:04:31.086Z"}
+{"level":"info","message":"Input: \"5-4993 so there you go. I believe that it is entire\"","timestamp":"2018-04-22T00:04:31.087Z"}
+{"level":"info","message":"Input: \"go. I believe that it is entirely likely that your \"","timestamp":"2018-04-22T00:04:31.088Z"}
+{"level":"info","message":"Input: \"t is entirely likely that your SSN is something aro\"","timestamp":"2018-04-22T00:04:31.090Z"}
+{"level":"info","message":"Input: \"mething around 555-33-4444 but can't say for sure.\\n\"","timestamp":"2018-04-22T00:04:31.091Z"}
+{"level":"info","message":"Input: \" that your SSN is something around 555-33-4444 but \"","timestamp":"2018-04-22T00:04:31.092Z"}
+{"level":"info","message":"Detected SSN at index 36","timestamp":"2018-04-22T00:04:31.092Z"}
+{"level":"info","message":"Input: \"3-4444 but can't say for sure.\\nEND\"","timestamp":"2018-04-22T00:04:31.094Z"}
+{"level":"info","message":"Input: \"Hello my Social Security number is 123-45-4993 so t\"","timestamp":"2018-04-22T00:05:03.477Z"}
+{"level":"info","message":"Detected SSN at index 36","timestamp":"2018-04-22T00:05:03.477Z"}
+{"level":"info","message":"Input: \"rity number is 123-45-4993 so there you go. I belie\"","timestamp":"2018-04-22T00:05:03.478Z"}
+{"level":"info","message":"Input: \"5-4993 so there you go. I believe that it is entire\"","timestamp":"2018-04-22T00:05:03.478Z"}
+{"level":"info","message":"Input: \"go. I believe that it is entirely likely that your \"","timestamp":"2018-04-22T00:05:03.479Z"}
+{"level":"info","message":"Input: \"t is entirely likely that your SSN is around 555-33\"","timestamp":"2018-04-22T00:05:03.480Z"}
+{"level":"info","message":"Input: \" that your SSN is around 555-33-4444 but can't say \"","timestamp":"2018-04-22T00:05:03.481Z"}
+{"level":"info","message":"Detected SSN at index 26","timestamp":"2018-04-22T00:05:03.481Z"}
+{"level":"info","message":"Input: \"ound 555-33-4444 but can't say for sure.\\nEND\"","timestamp":"2018-04-22T00:05:03.482Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T09:17:06.005Z"}
+{"level":"info","message":"Input: [object Object]","timestamp":"2018-04-22T09:17:06.164Z"}
+{"level":"info","message":"Input: [object Object]","timestamp":"2018-04-22T09:17:06.185Z"}
+{"level":"info","message":"Input: [object Object]","timestamp":"2018-04-22T09:17:06.191Z"}
+{"level":"info","message":"Input: [object Object]","timestamp":"2018-04-22T09:17:06.196Z"}
+{"level":"info","message":"Input: [object Object]","timestamp":"2018-04-22T09:17:06.201Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T09:17:29.606Z"}
+{"level":"info","message":"  App is running at http://localhost:3222 in development mode","timestamp":"2018-04-22T09:17:29.661Z"}
+{"level":"info","message":"  Press CTRL-C to stop\n","timestamp":"2018-04-22T09:17:29.662Z"}
+{"level":"info","message":"Input: [object Object]","timestamp":"2018-04-22T09:17:29.693Z"}
+{"level":"info","message":"Input: [object Object]","timestamp":"2018-04-22T09:17:29.727Z"}
+{"level":"info","message":"Input: [object Object]","timestamp":"2018-04-22T09:17:29.734Z"}
+{"level":"info","message":"Input: [object Object]","timestamp":"2018-04-22T09:17:29.739Z"}
+{"level":"info","message":"Input: [object Object]","timestamp":"2018-04-22T09:17:29.743Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T09:17:45.273Z"}
+{"level":"info","message":"  App is running at http://localhost:3222 in development mode","timestamp":"2018-04-22T09:17:45.335Z"}
+{"level":"info","message":"  Press CTRL-C to stop\n","timestamp":"2018-04-22T09:17:45.335Z"}
+{"level":"info","message":"Input: [object Object]","timestamp":"2018-04-22T09:17:45.366Z"}
+{"level":"info","message":"Input: [object Object]","timestamp":"2018-04-22T09:17:45.402Z"}
+{"level":"info","message":"Input: [object Object]","timestamp":"2018-04-22T09:17:45.408Z"}
+{"level":"info","message":"Input: [object Object]","timestamp":"2018-04-22T09:17:45.413Z"}
+{"level":"info","message":"Input: [object Object]","timestamp":"2018-04-22T09:17:45.418Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T09:38:10.889Z"}
+{"level":"info","message":"  App is running at http://localhost:3222 in development mode","timestamp":"2018-04-22T09:38:10.965Z"}
+{"level":"info","message":"  Press CTRL-C to stop\n","timestamp":"2018-04-22T09:38:10.966Z"}
+{"level":"info","message":"Input: [object Object]","timestamp":"2018-04-22T09:38:13.008Z"}
+{"level":"info","message":"Input: [object Object]","timestamp":"2018-04-22T09:38:13.041Z"}
+{"level":"info","message":"Input: [object Object]","timestamp":"2018-04-22T09:38:13.047Z"}
+{"level":"info","message":"Input: [object Object]","timestamp":"2018-04-22T09:38:13.052Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T09:41:24.939Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T09:41:49.081Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T09:41:57.920Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T16:29:50.639Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T16:30:07.199Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T16:30:07.260Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T19:28:00.300Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T19:28:00.378Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T19:30:29.235Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T19:30:29.311Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T19:30:46.865Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T19:31:17.641Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T19:32:38.386Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T19:32:45.969Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T19:39:48.053Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T19:39:52.049Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T19:54:32.907Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T19:54:32.986Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T20:05:35.039Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T20:05:35.129Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T20:07:11.298Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T20:07:14.199Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T20:11:22.681Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T20:11:22.883Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T20:12:30.650Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T20:12:30.730Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T20:18:09.295Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T20:18:09.368Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T20:18:19.212Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T20:18:27.358Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T20:24:10.994Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T20:24:11.102Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T20:24:38.325Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T20:26:35.973Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T20:26:37.303Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T20:26:43.164Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T20:39:25.193Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T20:39:35.671Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T20:41:41.531Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T20:41:41.874Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T20:43:10.451Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T20:43:10.795Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T20:43:14.124Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T20:43:14.192Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T20:43:18.611Z"}
+{"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T20:43:18.778Z"}

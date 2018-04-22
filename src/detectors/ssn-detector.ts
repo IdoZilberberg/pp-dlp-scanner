@@ -7,9 +7,8 @@ export class SsnDetector implements Detector {
     name = "SSN";
 
     contextKeywords: string[] = [
-        "Social Security",
-        "Social Security#",
-        "Soc Sec",
+        "SOCIAL SECURITY",
+        "SOC SEC",
         "SSN",
         "SSNS",
         "SSN#",
@@ -37,6 +36,7 @@ export class SsnDetector implements Detector {
 
     detect(input: string): Detection {
 
+        input = input.toLocaleUpperCase();
         const hasKeywords = this.contextKeywordsMatcher.exec(input);
         const hasItem: any = this.itemMatcher.exec(input);
 
