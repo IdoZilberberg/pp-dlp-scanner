@@ -83,46 +83,4 @@ describe("scan() tests", () => {
         done();
     });
 
-
-    // it("SSN with keywords so should match", (done) => {
-    //     request(app).post("/scanner")
-    //         .send(SSN_WITH_KEYWORDS)
-    //         .end((err, res) => {
-    //             expect(res.error).to.be.false;
-    //             done();
-    //         })
-    //         .expect(302);
-    // });
-    //
-    // it("CC without keywords so should NOT match", (done) => {
-    //     request(app).post("/scanner")
-    //         .send(CC_WITHOUT_KEYWORDS)
-    //         .end((err, res) => {
-    //             expect(res.error).to.be.false;
-    //             done();
-    //         })
-    //         .expect(302);
-    //
-    // });
-    //
-    // it("CC with keywords so should match", (done) => {
-    //     request(app).post("/scanner")
-    //         .send(CC_WITH_KEYWORDS)
-    //         .end((err, res) => {
-    //             expect(res.error).to.be.false;
-    //             done();
-    //         })
-    //         .expect(302);
-    // });
-    //
-    // it("CC with keywords so should match (Português)", (done) => {
-    //     request(app).post("/scanner")
-    //         .send(CC_WITH_KEYWORDS_BR)
-    //         .end((err, res) => {
-    //             expect(res.error).to.be.false;
-    //             done();
-    //         })
-    //         .expect(302);
-    // });
-
 });

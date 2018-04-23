@@ -5,7 +5,7 @@
 This service is called by the API service.
 
 # Running
-- Clone the repo
+- Clone the repo: `git clone https://github.com/IdoZilberberg/pp-dlp-scanner.git`
 - Install TypeScript (tsc) globally by running `npm install -g typescript`
 - Run `cd pp-dlp-scanner`
 - Run `npm install`
@@ -41,3 +41,7 @@ Current examples are:
 
 # Testing
 Multiple tests using `mocha` and `chai` give some degree of assurance to algo correctness. These are not exhaustive tests of course.
+
+# Dev notes
+- I decided to write it in Node.js + Typescript. Node.js is for rapid development as this is the server side technology I've been using lately.
+Typescript is to show some Object Oriented approach especially on the Scanner service side - users can implement the Detector interface to detect new types of data. 

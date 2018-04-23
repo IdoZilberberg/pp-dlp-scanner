@@ -345,3 +345,25 @@
 {"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T20:43:14.192Z"}
 {"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-22T20:43:18.611Z"}
 {"level":"info","message":"Detected SSN at index 11","timestamp":"2018-04-22T20:43:18.778Z"}
+{"level":"debug","message":"Logging initialized at debug level","timestamp":"2018-04-23T12:19:48.114Z"}
+{"level":"info","message":"  App is running at http://localhost:3222 in development mode","timestamp":"2018-04-23T12:19:48.156Z"}
+{"level":"info","message":"  Press CTRL-C to stop\n","timestamp":"2018-04-23T12:19:48.157Z"}
+{"level":"info","message":"Input: \"Hello my Social Security number is 123-45-4993 so t\"","timestamp":"2018-04-23T12:20:24.877Z"}
+{"level":"info","message":"Detected SSN at index 36","timestamp":"2018-04-23T12:20:24.878Z"}
+{"level":"info","message":"Input: \"go. I believe that it is entirely likely that your \"","timestamp":"2018-04-23T12:20:24.886Z"}
+{"level":"info","message":"Input: \"t is entirely likely that your SSN is around 555-33\"","timestamp":"2018-04-23T12:20:24.887Z"}
+{"level":"info","message":"Input: \"rity number is 123-45-4993 so there you go. I belie\"","timestamp":"2018-04-23T12:20:24.888Z"}
+{"level":"info","message":"Input: \"5-4993 so there you go. I believe that it is entire\"","timestamp":"2018-04-23T12:20:24.889Z"}
+{"level":"info","message":"Input: \" that your SSN is around 555-33-4444 but can't say \"","timestamp":"2018-04-23T12:20:24.890Z"}
+{"level":"info","message":"Detected SSN at index 26","timestamp":"2018-04-23T12:20:24.891Z"}
+{"level":"info","message":"Input: \"ound 555-33-4444 but can't say for sure.\\nEND\"","timestamp":"2018-04-23T12:20:24.892Z"}
+{"level":"info","message":"Input: \"Hello my Social Security number is 123-45-4993 so t\"","timestamp":"2018-04-23T12:22:36.466Z"}
+{"level":"info","message":"Detected SSN at index 36","timestamp":"2018-04-23T12:22:36.466Z"}
+{"level":"info","message":"Input: \"rity number is 123-45-4993 so there you go.\\nIf you'\"","timestamp":"2018-04-23T12:22:36.468Z"}
+{"level":"info","message":"Input: \"5-4993 so there you go.\\nIf you're interested, my IB\"","timestamp":"2018-04-23T12:22:36.470Z"}
+{"level":"info","message":"Input: \"go.\\nIf you're interested, my IBAN is DE44 5001 0517\"","timestamp":"2018-04-23T12:22:36.472Z"}
+{"level":"info","message":"Input: \"4 5001 0517 5407 3249 31 and my credit card is 4012\"","timestamp":"2018-04-23T12:22:36.473Z"}
+{"level":"info","message":"Input: \"sted, my IBAN is DE44 5001 0517 5407 3249 31 and my\"","timestamp":"2018-04-23T12:22:36.475Z"}
+{"level":"info","message":"Input: \"ard is 4012 8888 8888 1881.\\nNow you have everything\"","timestamp":"2018-04-23T12:22:36.476Z"}
+{"level":"info","message":"Input: \"9 31 and my credit card is 4012 8888 8888 1881.\\nNow\"","timestamp":"2018-04-23T12:22:36.478Z"}
+{"level":"info","message":"Input: \"8 1881.\\nNow you have everything!\\n\"","timestamp":"2018-04-23T12:22:36.479Z"}
